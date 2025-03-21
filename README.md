@@ -1,3 +1,7 @@
+**This is a fork of Lawnchair that reverts the commit that introduced [this issue of being unable to scroll when touching widgets or icons](https://github.com/LawnchairLauncher/lawnchair/issues/5297). This is an inelegant band-aid solution to allow for regular scrolling until the issue is addressed, after which this fork will be archived. Below is the original README.**
+
+---
+
 # Lawnchair 15
 
 [![Build debug APK](https://github.com/LawnchairLauncher/lawnchair/actions/workflows/ci.yml/badge.svg)](https://github.com/LawnchairLauncher/lawnchair/actions/workflows/ci.yml)
